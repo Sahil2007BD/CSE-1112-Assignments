@@ -8,6 +8,6 @@ int main(){
     b = c;
     a = c;
     printf("%d",a);
-
+    
 
 }
