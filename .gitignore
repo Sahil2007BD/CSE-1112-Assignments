@@ -1,2 +1,5 @@
-*.dSYM
+# Hide all executable files
 *.exe
+
+# Hide all Xcode/macOS debug symbol folders
+*.dSYM/
