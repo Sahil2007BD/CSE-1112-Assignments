@@ -1,7 +1,7 @@
 # 💻 CSE 1112 — C Programming
 
 <p align="center">
-  <b>150+ C Programming Assignments • 2nd Semester • CSE</b>
+  <b>250+ C Programming Assignments • 2nd Semester • CSE</b>
 </p>
 
 <p align="center">
