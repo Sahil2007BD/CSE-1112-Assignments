@@ -1,5 +1,5 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/sahil/Desktop/CSE_PU_Github/CSE-1112-Assignments/09_swapNumberWithThirdVairable.c/swap_number'
+binary-path:     '/Users/sahil/Desktop/CSE_PU_Github/CSE-1112-Assignments/09_swapNumberWithThirdVairable/swap_number'
 relocations:     []
 ...
