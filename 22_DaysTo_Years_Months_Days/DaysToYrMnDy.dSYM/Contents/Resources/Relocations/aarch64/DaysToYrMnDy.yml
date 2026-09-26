@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/sahil/Desktop/CSE_PU_Github/CSE-1112-Assignments/22_DaysTo_Years_Months_Days/DaysToYrMnDy'
+relocations:     []
+...
